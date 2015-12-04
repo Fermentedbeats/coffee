@@ -1,2 +1,3 @@
 # coffee
-mock-up for coffee site
+mock-up for superbot coffee site
+
